@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve Connext Studio
 title: "[BUG]"
 labels: bug
 assignees: ''
@@ -13,27 +13,22 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+1. Open VS Code with Connext Studio installed
+2. Go to '...'
+3. Click on '...'
 4. See error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**Screenshots / Logs**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Environment:**
+- OS: [e.g. macOS 14, Windows 11, Ubuntu 22.04]
+- VS Code Version: [e.g. 1.90.0]
+- Connext Studio Version: [e.g. 1.2.0]
+- Connext DDS Version (if applicable): [e.g. 7.3.0]
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the problem here (e.g., relevant XML configuration, DDS system setup, MCP server state).
